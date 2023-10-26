@@ -43,8 +43,8 @@
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#walkthrough">Walkthough</a></li>
         <ul>
-        <li><a href="#### 1. Match-making Tool">Match-making Tool</a></li>
-        <li><a href="#### 2. Bulk Email Sending Tool">Bulk Email Sending Tool</a></li>
+        <li><a href="#1-match-making-tool">Match-making Tool</a></li>
+        <li><a href="#2-bulk-email-sending-tool">Bulk Email Sending Tool</a></li>
         </ul>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>

@@ -43,8 +43,8 @@
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#walkthrough">Walkthough</a></li>
         <ul>
-        <li><a href="### 1. Match-making Tool">Match-making Tool</a></li>
-        <li><a href="### 2. Bulk Email Sending Tool">Bulk Email Sending Tool</a></li>
+        <li><a href="#### 1. Match-making Tool">Match-making Tool</a></li>
+        <li><a href="#### 2. Bulk Email Sending Tool">Bulk Email Sending Tool</a></li>
         </ul>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -147,7 +147,7 @@ See the [open issues](https://github.com/github_username/repo_name/issues) for a
 - translate the entire `expectation_column` into English
 - the number of local students must equal international students.
 
-### 2. Profile creating
+#### 2. Profile creating
 - create a `Person()` class object with all datas collected in the excel file as initial variables, along with vector datas like `id` and `coordination`, 
 
 #### 3. Embedding
